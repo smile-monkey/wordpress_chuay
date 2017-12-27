@@ -1,0 +1,7 @@
+/*!
+ * Copyright 2012, Chris Wanstrath
+ * Released under the MIT License
+ * https://github.com/defunkt/jquery-pjax
+ */
+
+(function($){ })(jQuery);  /// svnlabs pjax 
