@@ -41,6 +41,6 @@ wp-content/ai1wm-backups
 wp-content/login-logo.png
 wp-content/plugins/*
 !wp-content/plugins/piklist
-
+!wp-content/plugins/easy-digital-downloads
 wp-content/themes/*
 !wp-content/themes/musiks
