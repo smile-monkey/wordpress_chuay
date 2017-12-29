@@ -112,7 +112,7 @@
 					    </div>
 					</div>
 					<div class="m-t">
-						<?php the_content(); ?>
+						<?php //the_content();remove "Related" ?>
 						<?php echo get_the_term_list( $post->ID, 'download_tag', '<div><span class="badge text-u-c">'.esc_html__( 'Tag', 'musik' ).'</span> ', ', ' , '</div>'); ?>
 					</div>
 				</div>
