@@ -5,17 +5,6 @@ Description:
 Taxonomy: download_artist
 Order: 0
 */
-  piklist('field', array(
-    'type' => 'checkbox',
-    'field' => 'download',
-    'label' => esc_html__('Genres', 'musik'),
-    'choices' => array(
-      '1' => '1',
-      '2' => '1'
-    ),'on_post_status' => array(
-      'value' => 'lock'
-    )
-  ));
 
   piklist('field', array(
     'type' => 'file'
